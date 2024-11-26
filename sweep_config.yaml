@@ -1,0 +1,15 @@
+method: random
+name: yolo_sweep
+metric:
+  name: metrics/mAP50(B)  # metric to optimize for, change it as needed
+  goal: maximize  # 'maximize' or 'minimize'
+parameters:
+  learning_rate:
+    values: [0.001, 0.001, 0.1]  # Different learning rates to try
+  batch_size:
+    values: [16, 32, 64, 128]  # Different batch sizes
+  image_size:
+    values: [512, 640, 1024, 1280]  # Different image sizes for training
+  optimizer:
+    values: [adam, sgd]  # Different optimizers to try
+
