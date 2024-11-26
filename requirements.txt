@@ -2,28 +2,14 @@ absl-py==2.1.0
 aiohttp==3.9.5
 aiosignal==1.3.1
 antlr4-python3-runtime==4.9.3
-archspec @ file:///croot/archspec_1697725767277/work
 astunparse==1.6.3
 attrs==23.2.0
-boltons @ file:///C:/ci_311/boltons_1677729932371/work
-Brotli @ file:///C:/ci_311/brotli-split_1676435766766/work
-certifi @ file:///C:/b/abs_91u83siphd/croot/certifi_1700501720658/work/certifi
-cffi @ file:///C:/b/abs_924gv1kxzj/croot/cffi_1700254355075/work
-charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
 click==8.1.7
 cloudpickle==3.0.0
-colorama @ file:///C:/ci_311/colorama_1676422310965/work
 coloredlogs==15.0.1
-conda @ file:///C:/b/abs_88drkd35d4/croot/conda_1701719561256/work
-conda-content-trust @ file:///C:/b/abs_e3bcpyv7sw/croot/conda-content-trust_1693490654398/work
-conda-libmamba-solver @ file:///croot/conda-libmamba-solver_1702997573971/work/src
-conda-package-handling @ file:///C:/b/abs_b9wp3lr1gn/croot/conda-package-handling_1691008700066/work
-conda_package_streaming @ file:///C:/b/abs_6c28n38aaj/croot/conda-package-streaming_1690988019210/work
 contourpy==1.2.0
-cryptography @ file:///C:/b/abs_e8cnom_zw_/croot/cryptography_1702071486468/work
 cycler==0.12.1
 Cython==3.0.9
-distro @ file:///C:/b/abs_a3uni_yez3/croot/distro_1701455052240/work
 docker-pycreds==0.4.0
 easydict==1.13
 filelock==3.13.4
@@ -38,18 +24,15 @@ google-pasta==0.2.0
 grpcio==1.62.1
 h5py==3.12.1
 humanfriendly==10.0
-idna @ file:///C:/ci_311/idna_1676424932545/work
 imageio==2.34.0
 intel-openmp==2021.4.0
 Jinja2==3.1.3
-jsonpatch @ file:///tmp/build/80754af9/jsonpatch_1615747632069/work
 jsonpointer==2.1
 keras==3.6.0
 kiwisolver==1.4.5
 lapx==0.5.8
 lazy_loader==0.3
 libclang==18.1.1
-libmambapy @ file:///C:/b/abs_efpsdwt4ya/croot/mamba-split_1698782663578/work/libmambapy
 lightning==2.2.3
 lightning-utilities==0.11.2
 Markdown==3.6
@@ -57,7 +40,6 @@ markdown-it-py==3.0.0
 MarkupSafe==2.1.5
 matplotlib==3.8.3
 mdurl==0.1.2
-menuinst @ file:///C:/b/abs_e8p75b4m9q/croot/menuinst_1702390332729/work
 mkl==2021.4.0
 ml-dtypes==0.4.1
 mpmath==1.3.0
@@ -75,33 +57,24 @@ openvino==2024.5.0
 openvino-telemetry==2024.5.0
 opt_einsum==3.4.0
 optree==0.13.1
-packaging @ file:///C:/b/abs_28t5mcoltc/croot/packaging_1693575224052/work
 pandas==2.2.3
 Pillow==9.5.0
-platformdirs @ file:///C:/b/abs_b6z_yqw_ii/croot/platformdirs_1692205479426/work
-pluggy @ file:///C:/ci_311/pluggy_1676422178143/work
 portalocker==3.0.0
 protobuf==5.26.1
 psutil==6.1.0
 py-cpuinfo==9.0.0
 pybind11==2.12.0
 pycocotools==2.0.7
-pycosat @ file:///C:/b/abs_31zywn1be3/croot/pycosat_1696537126223/work
-pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
 pygame==2.6.0
 Pygments==2.18.0
-pyOpenSSL @ file:///C:/b/abs_08f38zyck4/croot/pyopenssl_1690225407403/work
 pyparsing==3.1.2
 pyreadline3==3.5.4
-PySocks @ file:///C:/ci_311/pysocks_1676425991111/work
 python-dateutil==2.9.0.post0
 pytorch-lightning==2.2.3
 pytz==2024.2
 pywin32==308
 PyYAML==6.0.1
-requests @ file:///C:/b/abs_316c2inijk/croot/requests_1690400295842/work
 rich==13.9.4
-ruamel.yaml @ file:///C:/ci_311/ruamel.yaml_1676439214109/work
 scikit-image==0.22.0
 scipy==1.12.0
 seaborn==0.13.2
@@ -122,17 +95,13 @@ tifffile==2024.2.12
 torch==2.5.1
 torchmetrics==1.3.2
 torchvision==0.20.1
-tqdm @ file:///C:/b/abs_f76j9hg7pv/croot/tqdm_1679561871187/work
-truststore @ file:///C:/b/abs_55z7b3r045/croot/truststore_1695245455435/work
 typing_extensions==4.11.0
 tzdata==2024.2
 ujson==5.9.0
 ultralytics==8.0.238
-urllib3 @ file:///C:/b/abs_9cmlsrm3ys/croot/urllib3_1698257595508/work
 Vizer==0.1.5
 wandb==0.18.7
 Werkzeug==3.0.1
-win-inet-pton @ file:///C:/ci_311/win_inet_pton_1676425458225/work
 wrapt==1.17.0
 yarl==1.9.4
 zstandard==0.19.0
